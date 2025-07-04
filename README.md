@@ -1,6 +1,5 @@
-# Mujahid.github.io
+
 Digital servers 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -62,7 +61,7 @@ Digital servers
 
   <h2>Registration Details</h2>
   <p><strong>Registration Date:</strong> June 24, 2025</p>
-  <p><strong>Proprietor:</strong> Saliha Adamu Mujahid</p>
+  <p><strong>Proprietor:</strong> Saliha Adamu</p>
 
   <h2>Services</h2>
   <ul>
